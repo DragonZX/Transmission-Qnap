@@ -1,0 +1,13 @@
+{  
+    "download-dir": "/share/MD0_DATA/transmission/downloads",  
+    "incomplete-dir": "/share/MD0_DATA/transmission/incomplete",  
+    "rpc-bind-address": "0.0.0.0",  
+    "rpc-enabled": true,  
+    "rpc-port": 9091,  
+    "rpc-url": "/transmission/",  
+    "rpc-whitelist": "127.0.0.1,192.168.*.*,172.16.*.*,10.*.*.*",  
+    "rpc-whitelist-enabled": true,  
+    "umask": 2,  
+    "watch-dir": "/share/MD0_DATA/transmission/watch",  
+    "watch-dir-enabled": true  
+}
